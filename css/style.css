@@ -36,22 +36,23 @@ nav.header_nav ul li a {
 img.mv {
   display: block;
   position: absolute;
-  top: 150px;
   right: 0;
   z-index: 10;
+  width: 50%;
+  top: 5vw;
 }
 
 h2.main_title {
-  font-size: 93px;
+  font-size: 5vw;
   font-weight: normal;
   position: absolute;
-  top: 600px;
   left: 0;
+  top: 26vw;
 }
 .bg_blue {
   background-color: #00277E;
-  width: 1460px;
-  height: 270px;
+  width: 74%;
   position: absolute;
-  top: 700px;
+  top: 31vw;
+  height: 14vw;
 }
